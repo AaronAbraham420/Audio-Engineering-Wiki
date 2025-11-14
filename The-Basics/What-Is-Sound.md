@@ -43,3 +43,6 @@ Humans have developed culture and technology that allows them to generate, recor
 *   **Communication:** Many species use sound for communication, and in humans, this has evolved into speech and language.
 *   **Music:** The art of arranging sounds in time to produce a composition through the elements of melody, harmony, rhythm, and timbre.
 *   **Technology:** Sound is used in a wide range of technologies, including sonar for navigation and detection, ultrasound for medical imaging, and audio engineering for recording and reproducing sound.
+
+### Additional Resources
+*   What is sound? Sound explained https://www.izotope.com/en/learn/what-is-sound
