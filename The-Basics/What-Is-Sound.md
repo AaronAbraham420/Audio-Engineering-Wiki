@@ -1,4 +1,4 @@
-# What is sound ?
+# What is Sound ?
 
 Sound is a mechanical wave that is an oscillation of pressure transmitted through a medium, such as a solid, liquid, or gas. In simpler terms, it is a vibration that travels through a medium and can be heard when it reaches a person's or animal's ear.
 
