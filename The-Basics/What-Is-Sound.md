@@ -45,4 +45,4 @@ Humans have developed culture and technology that allows them to generate, recor
 *   **Technology:** Sound is used in a wide range of technologies, including sonar for navigation and detection, ultrasound for medical imaging, and audio engineering for recording and reproducing sound.
 
 ### Additional Resources
-*   What is sound? Sound explained https://www.izotope.com/en/learn/what-is-sound
+*   What is sound? Sound explained  - https://www.izotope.com/en/learn/what-is-sound
