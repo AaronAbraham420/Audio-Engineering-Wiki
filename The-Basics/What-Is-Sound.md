@@ -15,6 +15,8 @@ Sound is transmitted through gases, plasma, and liquids as longitudinal waves, a
 *   **Longitudinal waves** are waves of alternating pressure deviations from the equilibrium pressure, causing local regions of compression and rarefaction.
 *   **Transverse waves**, also known as shear waves, are waves of alternating shear stress at a right angle to the direction of propagation.
 
+![An Illustration both Waves](/The-Basics/wave.gif)
+
 ### Properties of Sound Waves
 
 Sound waves are characterized by the generic properties of waves, which are:
