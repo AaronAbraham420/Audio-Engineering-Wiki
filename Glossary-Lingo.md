@@ -1,7 +1,7 @@
 # Master the Lingo , Ultimate Guide to Audiophile Lingo
 A beginner-friendly dictionary of words used in mixing, mastering, and audio production.
 ---
-A
+## A
 
 *Aliasing*
 Distortion caused when a signal exceeds half the sampling rate.
@@ -14,7 +14,7 @@ How quickly a compressor or envelope reacts when sound begins.
 
 
 
-B
+## B
 
 *Balance*
 The relative volume levels of tracks in a mix.
@@ -30,7 +30,7 @@ A muddy, overpowering low-frequency build-up (usually 120–250 Hz).
 
 ---
 
-C
+## C
 
 *Clipping*
 Distortion caused when the signal exceeds max level in analog or digital.
@@ -46,7 +46,7 @@ Bright, clear high-frequency detail without harshness.
 
 ---
 
-D
+## D
 
 *Damping*
 The absorption of sound reflections in a room.
@@ -62,7 +62,7 @@ Audio without effects like reverb or delay.
 
 ---
 
-E
+## E
 
 *EQ (Equalization)*
 Cutting or boosting specific frequency ranges.
@@ -75,7 +75,7 @@ Shape of a sound over time (attack, decay, sustain, release).
 
 ---
 
-F
+## F
 
 *Frequency*
 Pitch of a sound, measured in Hertz (Hz).
@@ -88,7 +88,7 @@ The primary pitch of a sound, with overtones above it.
 
 ---
 
-G
+## G
 
 *Gain Staging*
 Managing proper signal levels at every stage in the chain.
@@ -98,7 +98,7 @@ Mutes or reduces signals below a threshold—used for noise control.
 
 ---
 
-H
+## H
 
 *Harmonics*
 Overtones above the fundamental frequency.
@@ -111,7 +111,7 @@ Shrill high-frequency buildup (usually 3k–8k).
 
 ---
 
-I
+## I
 
 *Imaging*
 The perceived placement of sounds in the stereo field.
@@ -121,21 +121,21 @@ A capture of a space or hardware’s sonic characteristics.
 
 ---
 
-J
+## J
 
 *Jitter*
 Timing errors in digital audio, causing distortion.
 
 ---
 
-K
+## K
 
 *Knee*
 Describes how gradually or sharply a compressor engages.
 
 ---
 
-L
+## L
 
 *Latency*
 Delay between input and output in a system.
@@ -148,7 +148,7 @@ Rich, thick ambience or reverb.
 
 ---
 
-M
+## M
 
 *Masking*
 When one sound hides another due to overlapping frequencies.
@@ -164,7 +164,7 @@ Compression applied to independent frequency ranges.
 
 ---
 
-N
+## N
 
 *Noise Floor*
 The baseline level of noise in a system.
@@ -174,7 +174,7 @@ EQ cut at a narrow frequency to remove resonances.
 
 ---
 
-O
+## O
 
 *Overtones*
 Higher frequencies above the fundamental that shape timbre.
@@ -184,7 +184,7 @@ Processing at higher sample rates to reduce aliasing.
 
 ---
 
-P
+## P
 
 *Pan*
 Placement of a sound between left and right speakers.
@@ -197,14 +197,14 @@ Strong, tight low-end transient impact.
 
 ---
 
-Q
+- Q
 
 *Q Factor*
 Controls the width of an EQ band.
 
 ---
 
-R
+## R
 
 *Release*
 How fast a compressor stops reducing gain after the signal falls.
@@ -217,7 +217,7 @@ Very low-frequency noise (below 80 Hz).
 
 ---
 
-S
+## S
 
 *Saturation*
 Pleasant harmonic distortion from analog-style processing.
@@ -233,7 +233,7 @@ Middle part of a sound envelope after decay.
 
 ---
 
-T
+## T
 
 *Timbre*
 Character or color of a sound.
@@ -246,14 +246,14 @@ Weak low-end, overly bright mids/highs.
 
 ---
 
-U
+## U
 
 *Unison*
 Multiple voices playing the same pitch, often thickening synths.
 
 ---
 
-V
+## V
 
 *Vintage*
 Warm, colored sound reminiscent of older analog gear.
@@ -263,7 +263,7 @@ Low-register creaking sound in speech or singing.
 
 ---
 
-W
+## W
 
 *Warmth*
 Pleasant fullness in low-mids (150–400 Hz) with smooth highs.
@@ -273,21 +273,21 @@ Broad stereo image with separation between left and right.
 
 ---
 
-X
+## X
 
 *XLR*
 Balanced three-pin audio connector used for mics and pro equipment.
 
 ---
 
-Y
+## Y
 
 *Y-Cable*
 Cable that splits one signal into two or combines two into one.
 
 ---
 
-Z
+## Z
 
 *Zero Crossing*
 Point where a waveform crosses zero amplitude—important for click-free edits.
