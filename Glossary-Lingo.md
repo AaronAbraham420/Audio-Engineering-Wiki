@@ -1,6 +1,6 @@
 # Master the Lingo , Ultimate Guide to Audiophile Lingo
 A beginner-friendly dictionary of words used in mixing, mastering, and audio production.
-
+---
 A
 
 *Aliasing*
@@ -12,7 +12,7 @@ The strength or intensity of an audio signal, perceived as loudness.
 *Attack*
 How quickly a compressor or envelope reacts when sound begins.
 
-⸻
+
 
 B
 
@@ -28,7 +28,7 @@ Number of bits used per sample. More bit depth = more dynamic range.
 *Boomy*
 A muddy, overpowering low-frequency build-up (usually 120–250 Hz).
 
-⸻
+---
 
 C
 
@@ -44,7 +44,7 @@ Frequency point at which a signal is split between drivers (sub, woofer, tweeter
 *Crisp*
 Bright, clear high-frequency detail without harshness.
 
-⸻
+---
 
 D
 
@@ -60,7 +60,7 @@ Reducing harsh “S” or “T” sounds in vocals.
 *Dry*
 Audio without effects like reverb or delay.
 
-⸻
+---
 
 E
 
@@ -73,7 +73,7 @@ Initial reflections in a reverb that give spatial cues.
 *Envelope*
 Shape of a sound over time (attack, decay, sustain, release).
 
-⸻
+---
 
 F
 
@@ -86,7 +86,7 @@ Rapid, ringing reflection between two parallel surfaces.
 *Fundamental*
 The primary pitch of a sound, with overtones above it.
 
-⸻
+---
 
 G
 
@@ -96,7 +96,7 @@ Managing proper signal levels at every stage in the chain.
 *Gate*
 Mutes or reduces signals below a threshold—used for noise control.
 
-⸻
+---
 
 H
 
@@ -109,7 +109,7 @@ Safe level margin before clipping.
 *Harsh*
 Shrill high-frequency buildup (usually 3k–8k).
 
-⸻
+---
 
 I
 
@@ -119,21 +119,21 @@ The perceived placement of sounds in the stereo field.
 *Impulse Response (IR)*
 A capture of a space or hardware’s sonic characteristics.
 
-⸻
+---
 
 J
 
 *Jitter*
 Timing errors in digital audio, causing distortion.
 
-⸻
+---
 
 K
 
 *Knee*
 Describes how gradually or sharply a compressor engages.
 
-⸻
+---
 
 L
 
@@ -146,7 +146,7 @@ Ability to detect where a sound is coming from.
 *Lush*
 Rich, thick ambience or reverb.
 
-⸻
+---
 
 M
 
@@ -162,7 +162,7 @@ Single-channel audio.
 *Multiband Compression*
 Compression applied to independent frequency ranges.
 
-⸻
+---
 
 N
 
@@ -172,7 +172,7 @@ The baseline level of noise in a system.
 *Notch Filter*
 EQ cut at a narrow frequency to remove resonances.
 
-⸻
+---
 
 O
 
@@ -182,7 +182,7 @@ Higher frequencies above the fundamental that shape timbre.
 *Oversampling*
 Processing at higher sample rates to reduce aliasing.
 
-⸻
+---
 
 P
 
@@ -195,14 +195,14 @@ Relationship between two waveforms; poor phase causes thinning or cancellation.
 *Punchy*
 Strong, tight low-end transient impact.
 
-⸻
+---
 
 Q
 
 *Q Factor*
 Controls the width of an EQ band.
 
-⸻
+---
 
 R
 
@@ -215,7 +215,7 @@ A peak at a specific frequency due to natural vibration.
 *Rumble*
 Very low-frequency noise (below 80 Hz).
 
-⸻
+---
 
 S
 
@@ -231,7 +231,7 @@ Harsh “S,” “Sh,” or “T” sounds in vocals.
 *Sustain*
 Middle part of a sound envelope after decay.
 
-⸻
+---
 
 T
 
@@ -244,14 +244,14 @@ The initial, punchy attack of a sound.
 *Tinny*
 Weak low-end, overly bright mids/highs.
 
-⸻
+---
 
 U
 
 *Unison*
 Multiple voices playing the same pitch, often thickening synths.
 
-⸻
+---
 
 V
 
@@ -261,7 +261,7 @@ Warm, colored sound reminiscent of older analog gear.
 *Vocal Fry*
 Low-register creaking sound in speech or singing.
 
-⸻
+---
 
 W
 
@@ -271,21 +271,21 @@ Pleasant fullness in low-mids (150–400 Hz) with smooth highs.
 *Wide*
 Broad stereo image with separation between left and right.
 
-⸻
+---
 
 X
 
 *XLR*
 Balanced three-pin audio connector used for mics and pro equipment.
 
-⸻
+---
 
 Y
 
 *Y-Cable*
 Cable that splits one signal into two or combines two into one.
 
-⸻
+---
 
 Z
 
