@@ -12,6 +12,8 @@ Sound is a pressure wave. Its pitch is determined by frequency (cycles per secon
 
 Analog audio is a continuous waveform that directly represents sound (captured by microphones, tape machines, vinyl, etc.) ￼. Digital audio converts sound into discrete numbers by sampling: at each instant (sampling rate) the waveform’s amplitude is measured and stored in binary ￼. Common sampling rates are 44.1 kHz (CD quality) and 48 kHz (video standard), with higher rates (96–192 kHz) for high-resolution audio ￼. Bit depth (e.g. 16-bit, 24-bit) determines resolution and dynamic range ￼. Higher bit depth and sampling rate capture more detail and dynamic range, at the cost of larger file size.
 
+*More Info Here:* https://youtu.be/1YviIsCbT9Q 
+
 ### Signal Path (Flow)
 
 A clean signal path is crucial. An audio signal flows from source (e.g. mic or guitar) through preamps, processors, and into the DAW, then back out to monitors. For example: Mic → Preamp (gain boost) → EQ/Compression → Audio Interface → Computer/DAW → Monitors. Every device can introduce noise or distortion, so cables should be good quality and gain staged properly ￼ ￼. Engineers must check each connection and level to preserve clarity.
