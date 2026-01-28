@@ -1,3 +1,10 @@
-# Audio Engineering Wiki
-This public audio-engineering resource is organized like a wiki. It includes a Glossary of common mixing terms, a Basics section covering fundamental audio concepts (signals, EQ, compression, etc.), and Open-Source Tools & Resources page with useful free software and content kind of like fmhy.net but for audio
+---
+layout: default
+title: Audio Engineering Wiki
+---
 
+Welcome to the **Audio Engineering Wiki** 🎛️  
+A growing, engineer-first knowledge base on audio, acoustics, and production.
+
+## 🤍 Want to help improve this wiki?
+[**Contribute**](https://github.com/AaronAbraham420/Audio-Engineering-Wiki)
