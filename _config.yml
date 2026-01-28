@@ -1,3 +1,4 @@
+theme: null
 remote_theme: pages-themes/midnight@v0.2.0
 
 # Disable default GitHub project buttons
