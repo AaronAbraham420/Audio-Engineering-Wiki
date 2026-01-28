@@ -12,3 +12,4 @@ contribute_text: Contribute
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
