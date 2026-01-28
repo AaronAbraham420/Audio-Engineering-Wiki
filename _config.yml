@@ -1,3 +1,14 @@
 remote_theme: pages-themes/midnight@v0.2.0
+
+# Disable default GitHub project buttons
+show_downloads: false
+is_project_page: false
+github:
+  is_project_page: false
+
+# Custom Contribute link (used manually in index.md)
+contribute_url: https://github.com/AaronAbraham420/Audio-Engineering-Wiki
+contribute_text: Contribute
+
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-remote-theme
